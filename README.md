@@ -1,2 +1,2 @@
 # Generative_emotion_detection
-This is just a test
+This project takes a general purposed dataset to train a classifier Neural Network that would predict if the given text is good (1) or bad (0). After training the classifier, we create an Adversarial Neural Network that generate new data on a specific domain. The created Generator is then going to be use to generate new information and the classifier is going to be use to label the created data. 
